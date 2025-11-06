@@ -70,3 +70,5 @@ Strategic Insight: Focus marketing and supply efforts on top-performing categori
 Tech Sales Snapshot
 
 A data-driven Power BI dashboard offering real-time visibility into sales performance across categories, brands, and supervisors. It empowers decision-makers to optimize product mix, manage cost efficiency, and enhance overall sales strategy for FY 2024–25.
+<img width="1155" height="652" alt="Tech_dashboard_snapshort" src="https://github.com/user-attachments/assets/be07d934-0179-4d0b-a320-bf4e9815f276" />
+
